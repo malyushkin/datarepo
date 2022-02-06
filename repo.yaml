@@ -1,0 +1,12 @@
+---
+title: Data Engineering repo
+sections:
+- title: Intro
+  lections:
+  - title: 'Как развиваться в Data Engineering: в России и за границей'
+      source: Netology
+      year: 2020
+      authors:
+        - Дмитрий Аношин
+      video: https://youtu.be/7rQcfaGgu1U
+      presentation: presentations/2020_Дмитрий-Аношин_Как-развиваться-в-Data-Engineering-в-России-и-за-границей.pdf
