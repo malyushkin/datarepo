@@ -2,15 +2,122 @@
 title: Data Engineering repo
 sections:
 - title: Intro
-  lessons:
+  reports:
   - title: 'Как развиваться в Data Engineering: в России и за границей'
     year: 2020
+    language: rus
     authors:
       - Дмитрий Аношин
-    language: rus
-    source: netology.ru
-    presentation: presentations/2020_Дмитрий-Аношин_Как-развиваться-в-Data-Engineering-в-России-и-за-границей.pdf
-    video: https://youtu.be/7rQcfaGgu1U
-- title: Databases
+    source: https://netology.ru/
+    url: https://netology.ru/free-lessons/kak-razvivatsya-v-data-engineering-v-rossii-i-zagranicej
+    tags:
+      - self development
+    extra:
+      webinar_presentation: presentations/2020_Дмитрий-Аношин_Как-развиваться-в-Data-Engineering-в-России-и-за-границей.pdf
+      webinar_video: https://youtu.be/7rQcfaGgu1U
+    status: null
+- title: Hard skills
   books:
-  - title: ???
+  - title: Эффективный Spark. Масштабирование и оптимизация
+    year: 2018
+    language: rus
+    authors:
+      - Холден Карау
+      - Рейчел Уоррен
+    url: https://www.piter.com/product/effektivnyy-spark-masshtabirovanie-i-optimizatsiya
+    tags:
+      - spark
+  - title: 'Spark: The Definitive Guide: Big Data Processing Made Simple'
+    year: 2018
+    language: eng
+    authors:
+      - Bill Chambers
+      - Matei Zaharia
+    url: https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219
+    tags:
+      - spark
+  articles:
+  - title: Running Apache Spark on AWS
+    year: 2019
+    language: eng
+    url: https://medium.com/acast-tech/running-apache-spark-on-aws-81a5f766d3a6
+    tags:
+      - aws
+      - spark
+  reports:
+  - title: 'Бахтагуль Имашева, «AirFlow — дата-процессы нового уровня в Колёсах», Kolesa Conf 2021'
+    year: 2021
+    language: rus
+    authors:
+      - Бахтагуль Имашева
+    source: https://kolesa-conf.kz/online
+    url: https://youtu.be/db3fDP2V5zU
+    tags:
+      - airflow
+    status: null
+  podcasts:
+  - title: 38. Snowflake Data Cloud
+    year: 2022
+    authors:
+      - Антон Ревяко
+    language: rus
+    source: https://datacoffee.site/
+    url: https://anchor.fm/data-coffee/episodes/38--Snowflake-Data-Cloud-e1dued5
+    tags:
+      - cloud
+      - snowflake
+    status: null
+  courses:
+  - title: 'Алгоритмы: roadmap для работы и собеседований'
+    year:
+    authors:
+      - Артём Мурадов
+    url: https://slurm.io/algorithms
+    tags:
+      - algorythms
+    status: null
+- title: Career
+  expert_interviews:
+  - title: 'Валерий Бабушкин: зачем и куда ушёл из Facebook?'
+    year: 2022
+    language: rus
+    source: https://karpov.courses/
+    url: https://youtu.be/1tVxbVPVG6k
+    tags:
+      - career
+    status: null
+  job_interviews:
+  - title: 'Собеседование в IT - Часть 3 - Как пройти Техническое интервью и что говорить если НЕ знаешь ответ'
+    year: 2022
+    language: rus
+    source:
+    url: https://youtu.be/Xh2kyc2b1uM
+    tags:
+      - job interview
+    status: null
+
+
+
+#Метабейз/суперсет
+
+#codewars. Там есть раздел с sql.
+#
+#подкасты
+#Simon Osipov, [27 Jan 2022, 11:19:59]:
+#Вот список из 5, которые чисто про DE
+#
+#Simon Osipov, [27 Jan 2022, 11:19:59]:
+#1 - The Analytics Engineering Podcast (это ребята из DBT)
+#
+#Simon Osipov, [27 Jan 2022, 11:19:59]:
+#2 - Data Engineering Podcast
+#
+#Simon Osipov, [27 Jan 2022, 11:19:59]:
+#3 - The Data Engineering Show
+#
+#Simon Osipov, [27 Jan 2022, 11:19:59]:
+#4 - Data – Software Engineering Daily
+#
+#Simon Osipov, [27 Jan 2022, 11:19:59]:
+#5 - DE or DIE: Talks
+#
